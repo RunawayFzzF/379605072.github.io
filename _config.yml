@@ -1,10 +1,10 @@
 # Site settings
-title: ClawHub Blog
-SEOTitle: ClawHub的博客 | ClawHub Blog
+title: Sam Blog
+SEOTitle: Sam的博客 | Sam Blog
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
 description: "IT一族 | 成为更棒的人"
-keyword: "开发, clawhub, IT, 测试, 运维,  博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+keyword: "开发, Sam, IT, 测试, 运维,  博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
 url: "http://calwhub.tk"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -67,7 +67,7 @@ ga_domain: ClawHub.tk
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "不知道写啥，<br>应该是个座右铭。"
+sidebar-about-description: "好看的皮囊千篇一律，<br>有趣的灵魂万里挑一。"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -87,7 +87,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "志明",
+        title: "Runaway",
         href: ""
     }
 ]
