@@ -1,0 +1,25 @@
+---
+layout:       post
+title:        "java排序算法实现机制"
+subtitle:     "java的排序算法"
+date:         2018-08-15 12:00:00
+author:       "Sam"
+header-img:   "img/tag-bg.jpg"
+header-mask:  0.3
+catalog:      true
+multilingual: true
+tags:
+    - 操作系统
+---
+
+<!-- Chinese Version -->
+<div class="zh post-container">
+    {% capture about_zh %}{% include posts/2018-08-15-sort/zh.md %}{% endcapture %}
+    {{ about_zh | markdownify }}
+</div>
+
+<!-- English Version -->
+<div class="en post-container">
+    {% capture about_en %}{% include posts/2018-08-15-sort/en.md %}{% endcapture %}
+    {{ about_en | markdownify }}
+</div>

@@ -3,7 +3,7 @@ layout:       post
 title:        "怎样用github写博客"
 subtitle:     "write"
 date:         2018-03-28 19:46:00
-author:       "ClawHub"
+author:       "Sam"
 header-img:   "img/in-post/2018-03-28-how-write-blogs/how-write.jpg"
 header-mask:  0.3
 catalog:      true
