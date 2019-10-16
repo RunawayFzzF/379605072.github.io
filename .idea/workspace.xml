@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="11fe58d7-4da9-472c-8775-801b4b286e6e" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/about/zh.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/about/zh.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1534304325877</updated>
       <workItem from="1534304327354" duration="1479000" />
-      <workItem from="1571205619887" duration="3251000" />
+      <workItem from="1571205619887" duration="3488000" />
     </task>
     <servers />
   </component>
