@@ -4,7 +4,7 @@ SEOTitle: Sam的博客 | Sam Blog
 header-img: img/home-bg.jpg
 email: 379605072@qq.com
 description: "IT一族 | 成为更棒的人"
-keyword: "开发, Sam, IT, 测试, 运维,  博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+keyword: "开发, Sam, IT, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
 url: "http://calwhub.tk"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -15,10 +15,6 @@ RSS: false
 weibo_username:     胡五条竟然不能赢
 zhihu_username:     武江涛
 github_username:    RunawayFzzF
-#twitter_username:   ClawHub
-#facebook_username:  huxpro
-# linkedin_username:  firstname-lastname-idxxxx
-
 
 
 # Build settings
@@ -61,7 +57,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: ClawHub.tk
+ga_domain: Sam.tk
 
 
 
